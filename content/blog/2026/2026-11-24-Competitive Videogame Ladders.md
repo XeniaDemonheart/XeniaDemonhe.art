@@ -38,7 +38,7 @@ Reason why Sonic Crossworlds is easy to climb is that, at least where I'm at for
 
 {{ <youtube id="FF5K0WvqhBE" /> }}
 
-Either that or I got used to the pain and it no longer registers as pain.
+<p style="text-align: center;">Either that or I got used to the pain and it no longer registers as pain.</p>
 
 {{ <indent n={2} /> }}I can tell I'm being somewhat unhealthy in my Hearthstone play. I'm playing for hours and hours, barely getting minimum calories in a day, not being terribly great about bathing/hygiene. I'll be fine, don't worry. I'm better now about doing self maintenance than I was in my teens. Waaay better medicated, too. But still, I can tell I could be more multi-faceted in what I'm doing in a day, or not playing *As* much of this game as I am currently.
 
@@ -62,7 +62,7 @@ Either that or I got used to the pain and it no longer registers as pain.
 
 [![Alt text](https://files.catbox.moe/hj4s5b.png)](https://files.catbox.moe/hj4s5b.png "A reddit comment explaining the Magic the Gathering Archetypes of Timmy, Johnny, Spike")
 
-But I really, really do love putting an opponent's nose in the dirt.
+<p style="text-align: center;">But I really, really do love putting an opponent's nose in the dirt.</p>
 
 {{ <indent n={2} /> }}I am 33 years old as of writing. There will come a time very soon, if not already, that I will no longer physically be able to be top level competitive in an action twitchy game like Unreal Tournament, Fortnite, or Sonic Crossworlds. That time might already be now really, I feel my actions and brain have already noticeably slowed down VS when I was 20. 
 
