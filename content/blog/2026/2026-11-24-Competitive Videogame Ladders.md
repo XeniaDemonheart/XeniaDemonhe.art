@@ -16,7 +16,7 @@ Reason why Sonic Crossworlds is easy to climb is that, at least where I'm at for
 
 {{ <indent n={2} /> }}Games like these and others have a ranked system that tries to sort people into matches of similar skill level, depending on the time and skill the individual is willing to put in and how many wins or losses they accrue over a temporary period of time. A bell curve ELO system.
 
-[![Alt text](https://files.catbox.moe/czzakf.png)](https://files.catbox.moe/czzakf.png "Hearthstone ranked mode, going from Bronze to Legend rank of six ranks")
+[![Alt text](https://files.catbox.moe/xk6rzw.png)](https://files.catbox.moe/xk6rzw.png "Hearthstone ranked mode, going from Bronze to Legend rank of six ranks")
 
 {{ <indent n={2} /> }}The ranks are similar across many competitive games. Bronze, silver, gold, platinum, diamond, legend/top rank/grand master. A vast majority of players will find themselves "stuck" in gold or silver rank, unless they truly improve in skill/are willing to put serious time in. And can physically manage to beat other hyper competitive opponents. Crossworlds uses a F to S tier list, alphabet letters replacing the Words, like you're being graded on a report card when you reach A+ rank.
 
